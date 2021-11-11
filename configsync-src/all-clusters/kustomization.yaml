@@ -18,4 +18,4 @@ resources:
 - namespaces.yaml
 commonLabels:
   owner: platform-team
-# [END anthos_config_management_multi_cluster_access_and_quota_src_kustomization] 
+# [END anthos_config_management_multi_cluster_access_and_quota_src_kustomization]

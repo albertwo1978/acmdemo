@@ -4,4 +4,4 @@ metadata:
   labels:
     cluster: cluster-east
     owner: platform-team
-  name: tenant-a
+  name: tenant-d

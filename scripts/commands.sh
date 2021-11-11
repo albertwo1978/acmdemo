@@ -18,3 +18,6 @@ kubectl logs -n kube-system -l k8s-app=config-management-operator
 kubectl logs -l app=reconciler-manager --namespace config-management-system -c reconciler-manager
 
 kubectl logs -n gatekeeper-system gatekeeper-controller-manager-6dc946bf9b-sqzmn
+
+# Lists Policy Controller constraint templates
+kubectl get constrainttemplates
